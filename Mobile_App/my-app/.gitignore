@@ -41,9 +41,12 @@ example
 # generated native folders
 /ios
 /android
+<<<<<<< HEAD
 
 /.claude
 /.vscode
 
 AGENTS.md
 CLAUDE.md
+=======
+>>>>>>> caf392338346e08f0788e4677080193f82916b23
