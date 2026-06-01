@@ -1,4 +1,4 @@
-![Project Cover](.github/Cover_PAge.png)
+![Project Cover](.github/Cover_Page.png)
 
 # Sikka (سكة) — Vehicle Tracking System
 
