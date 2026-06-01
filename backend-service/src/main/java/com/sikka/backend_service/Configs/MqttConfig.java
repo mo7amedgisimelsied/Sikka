@@ -25,7 +25,7 @@ public class MqttConfig {
         DefaultMqttPahoClientFactory factory = new DefaultMqttPahoClientFactory();
         MqttConnectOptions options = new MqttConnectOptions();
 
-        options.setServerURIs(new String[]{"tcp://localhost:1883"});
+        options.setServerURIs(new String[]{"ws://localhost:9001"}); // "tcp://localhost:1883"
         options.setCleanSession(true);
 
         factory.setConnectionOptions(options);
